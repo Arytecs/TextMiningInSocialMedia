@@ -1,0 +1,104 @@
+<author lang="es">
+	<documents>
+		<document><![CDATA[Evidencia digital en accidentes de tránsito por "distracción digital" #ForensicFriday https://t.co/L8LfUrEird]]></document>
+		<document><![CDATA[@juliobalderrama Feliz cumpleaños a un gran profesional y excelente persona. Abrazo Julito!]]></document>
+		<document><![CDATA[Antes de actualizar el firmware de un equipo con discos cifrados FDE bitlocker, asegúrese de tener a mano la clave de recuperación]]></document>
+		<document><![CDATA[@raulmillan un modem telefónico Hayes de pura cepa... ATDT...]]></document>
+		<document><![CDATA[@musimundo Ya se presentó detalle completo y factura...]]></document>
+		<document><![CDATA[@musimundo Revisen los mensajes anteriores.Gracias]]></document>
+		<document><![CDATA[@musimundo Aun no se comunicaron conmigo para ultimar los detalles ...]]></document>
+		<document><![CDATA[@nicolegertf No es una verdad absoluta, depende del dispositivo, su configuración y la implementación del proceso de restauración. Saludos]]></document>
+		<document><![CDATA[@malbolgia @dsespitia La definición de borrado seguro y la implementación del mismo son dos cosas diferentes]]></document>
+		<document><![CDATA[@malbolgia @dsespitia si, mientras no puedas romper el cifrado]]></document>
+		<document><![CDATA[@malbolgia @nicolegertf imposibilidad de recuperación.Hay ejemplos de vulnerabilidades en implementaciones que permiten descifrar contenidos]]></document>
+		<document><![CDATA[@malbolgia @nicolegertf Dependiendo de la implementación de cifrado,borrado seguro solo de la llave de cifrado no garantiza la ...]]></document>
+		<document><![CDATA[@malbolgia @nicolegertf Es semántico, borrado seguro es la sobreescitura de todos los bloques de un medio de almacenamiento.]]></document>
+		<document><![CDATA[@saltmarcos @fernandotomeo Protocolos de cumplimiento efectivo , auditorías de control y concientización son un muy buen punto de partida]]></document>
+		<document><![CDATA[@malbolgia @nicolegertf No es borrado seguro pero destruir la llave de cifrado tiene el mismo efecto y la información no es recuperable]]></document>
+		<document><![CDATA[@nicolegertf No estes tan segura que no pueda recuperarse con herramientas forenses...]]></document>
+		<document><![CDATA[@nicolegertf El borrado seguro se puede hacer con apps o hardware específico . Restaurar a fabrica un movil no hace borrado seguro]]></document>
+		<document><![CDATA[Nadie está exento de ser hackeado, la diferencia radica en estar preparado anticipadamente para limitar o mitigar el efecto]]></document>
+		<document><![CDATA[@vvgomez 4KB de memoria RAM y almacenamiento en floppy de 600 KB ... No tenía disco rígido :)]]></document>
+		<document><![CDATA[@AlanTInvesting Radio Shack TRS80 - Z-80A, 1.77 MHz 4KRAM , datasette, monitor Mono 64x16 ,BASIC en ROM y un FDD 60… https://t.co/GB8q2ZW5zS]]></document>
+		<document><![CDATA[@fedbarbero Yo tengo un rollo de RG62 je je]]></document>
+		<document><![CDATA[Esta es la primera computadora que toqué ...Mi padre la compró para la administración de su negocio de repuestos en… https://t.co/rLVJ1bZ1tX]]></document>
+		<document><![CDATA[@rfb_ Las cosas que aparecen ordenando...Topología radial con protocolo determinístico . Saludos Raul!]]></document>
+		<document><![CDATA[Levante la mano el que utilizó una de estas... https://t.co/eZ9VnYw0Bv]]></document>
+		<document><![CDATA[Las shadow copies generadas por VSS son artefactos a nivel de bloque y no pueden accederse mediante toolkits forenses tradicionales en el FS]]></document>
+		<document><![CDATA[Pronto publicaré eventos gratuitos en el interior a los que me han invitado]]></document>
+		<document><![CDATA[Publicado el calendario de cursos oficiales @EnCase y @MagnetForensics  que dictaré en Buenos Aires… https://t.co/Pg6xhuP5Zb]]></document>
+		<document><![CDATA[@bruno_constanzo @cibercrimen Si , vi la presentación y tambien el paper de ustedes]]></document>
+		<document><![CDATA[@bruno_constanzo @cibercrimen Si Bruno, Tenes que salir del Unallocated closet :)]]></document>
+		<document><![CDATA[@VickyngaQueen Precios alternativos ?]]></document>
+		<document><![CDATA[La justicia rechazó pedido de detención de directivo de @uber solicitado por el Fiscal de Ciudad de Buenos Aires #NadandoContraLaCorriente]]></document>
+		<document><![CDATA[Aunque tardía , destaco el cambio de actitud y predisposición de @musimundo , será por el impacto de esta red social ?]]></document>
+		<document><![CDATA[@musimundo El trabajo ya fue facturado. No tengo inconvenientes que el reintegro sea en cuenta bancaria. Favor indicar como proceder]]></document>
+		<document><![CDATA[@germanccruz ...La impresión de un correo es una vista parcial, solo del cuerpo del mensaje. No es un estado diferente]]></document>
+		<document><![CDATA[@germanccruz El correo electrónico es evidencia digital y su resguardo se hace bajo procedimientos específicos... (Sigue)]]></document>
+		<document><![CDATA[@r3dmx Que significa exactamente? Los datos de millones de usuarios de servicios web y RRSS quedaran expuestos?]]></document>
+		<document><![CDATA[@BACSIRT tiene incumbencia en la seguridad informática de los funciona de CABA ?]]></document>
+		<document><![CDATA[Una impresión de un correo electrónico (aun notarizada) NO es un correo electrónico #EvidenciaDigitalForDummies #ForensicFriday]]></document>
+		<document><![CDATA[@arparetyma Se requiere conocer la actividad del dispositivo en una ventana de tiempo significativa para la investigación #ForensicFriday]]></document>
+		<document><![CDATA[@maxfattorini llega pronto... Saludos y #ForensicFriday]]></document>
+		<document><![CDATA[Tambien DBAN es mi elección cuando no uso hardware para borrado seguro (wipe) #ForensicFriday https://t.co/WUMIhVeLfI]]></document>
+		<document><![CDATA[Las Alternativas de extracción forense en SmarTV son 1)Firmware o app nativa 2) JTAG port  3) Chip off . En ese orden #ForensicFriday]]></document>
+		<document><![CDATA[Estoy trabajando en un caso forense que involucra un Smart TV . La complejidad radica en la extracción de la evidencia #ForensicFriday]]></document>
+		<document><![CDATA[@Securizame @lawwait @Thinktic Pensé que el perito de la querella y del imputado era el mismo 😊 #ForensicFriday]]></document>
+		<document><![CDATA[@pablopalazzi @saltmarcos coincido con @facundomp1 No es solo capacitacion aunque entender es un primer paso]]></document>
+		<document><![CDATA[@mbendinelli @4Dgifts @pablopalazzi @saltmarcos o hasta que ocurra un incidente que les mueva la aguja...]]></document>
+		<document><![CDATA[@alzuanora @saltmarcos @pablopalazzi y posiblemente la repita en múltiples servicios #FAIL]]></document>
+		<document><![CDATA[@horacioazzolin @grsain Esa técnica seguramente vulneraba la validez legal de la evidencia obtenida]]></document>
+		<document><![CDATA[@pablopalazzi @saltmarcos Falta una política de estado en Ciberseguridad...]]></document>
+		<document><![CDATA[@grsain @genbeta Efectivamente, la evidencia digital para ser admisible debe tener tanto válidez legal como validez técnica]]></document>
+		<document><![CDATA[Muy claro el post de @HeatherMahalik sobre herramientas forenses para teléfonos celulares https://t.co/vbZ2U7bcxJ]]></document>
+		<document><![CDATA[Buen artículo #EsteganografíaForDummies https://t.co/0htEN15WOE]]></document>
+		<document><![CDATA[Cómo verificar si una web es segura o los chats están cifrados https://t.co/4Guxxgwwfw]]></document>
+		<document><![CDATA[@fergleiser @nicowaisman X25, HDLC , SDLC ... Que tiempos aquellos]]></document>
+		<document><![CDATA[@fergleiser @nicowaisman ATM y terminales controladoras de infraestructura crítica son un lamentable clásico...]]></document>
+		<document><![CDATA[@fergleiser @nicowaisman ...Ni hablar de estaciones de trabajo con XP...]]></document>
+		<document><![CDATA[@fergleiser @nicowaisman Muchas empresas publicas/privadas mantienen desde hace años, portales únicamente accesibles con versiones viejas IE]]></document>
+		<document><![CDATA[@aschapire Se puede ser tan irresponsable?]]></document>
+		<document><![CDATA[Cada vez que elegís una oferta en @DespegarAr recibis el mensaje "No llegamos a tiempo ..." #FAIL]]></document>
+		<document><![CDATA[Interesante entrevista a un Ingeniero Social profesional (Llamativa la vestimenta del entrevistador) cc @holesec https://t.co/qaNTEuEj2x]]></document>
+		<document><![CDATA[@chapita @fergleiser @dzapatillas ...Consejo de abogado componedor...los ingenieros somos más pragmáticos ...]]></document>
+		<document><![CDATA[@mis2centavos @fibertel TODOS los ISP en Argentina tienen un pésimo servicio de atención al cliente, solo que todavia no te lo demostraron]]></document>
+		<document><![CDATA[@quinonesurquiza o mas bien alienados 😉]]></document>
+		<document><![CDATA[Algunas de esas horas compartiran conmigo ... https://t.co/8opzxw9zoy]]></document>
+		<document><![CDATA[A propósito de lo conversado ayer con @saltmarcos y @MilanesVale ... https://t.co/EloCIz0XyM]]></document>
+		<document><![CDATA[@mis2centavos @beabusaniche Son datos personales en otro formato , aplican las mismas recomendaciones que para los textos que publicamos]]></document>
+		<document><![CDATA[@crisborghe Muy interesante toda la crónica , Gracias por compartirla. Saludos!]]></document>
+		<document><![CDATA[Triste papel del perito que habiendo firmado un dictamen , hace declaraciones en los medios con conclusiones falsas y fuera de su experticia]]></document>
+		<document><![CDATA[Entender las implicancias y diferencias entre metadatos internos y externos es importante para el análisis forense Informático]]></document>
+		<document><![CDATA[@FedeMarchetti desaparecido en acción...]]></document>
+		<document><![CDATA[Donde es ese maravilloso sitio @pescadicto ?]]></document>
+		<document><![CDATA[Estado actual: Extrayendo fragmentos de correo html en espacio no asignado ...hoy si encontré la pistola humeante :):):)]]></document>
+		<document><![CDATA[@musimundo me tuvo 3 meses para reparar un equipo en garantía y lo emparcharon en lugar de reemplazar la pieza defectuosa cc @dzapatillas]]></document>
+		<document><![CDATA[Consejo: Nunca compren en @musimundo . No tienen respeto por el cliente y no se hacen cargo de las garantías]]></document>
+		<document><![CDATA[En breve publicaré los cursos oficiales que dictaré a partir de Abril de @EnCaseTraining y @MagnetForensics . Esten atentos!]]></document>
+		<document><![CDATA[Degaussing es la demagnetizacion al extremo de dejar inutilizable el medio de almacenamiento magnético. Naturalmente es inaplicable a SSD]]></document>
+		<document><![CDATA[Wiping y degaussing son dos procedimientos de borrado seguro bien diferentes]]></document>
+		<document><![CDATA[@OflPol Por la naturaleza del wiping,  no existe software para recuperarlo aun con una sola pasada. Podríamos ampliar pero no en 140]]></document>
+		<document><![CDATA[Borrado seguro de un dispositivo digital es la sobreescritura del espacio ocupado por un contenido con otro,siendo el original irrecuperable]]></document>
+		<document><![CDATA[@LordAuditor Es una opción, depende del escenario]]></document>
+		<document><![CDATA[El análisis cruzado de distintos registros de eventos (logs) permite establecer una linea de tiempo y actividad en dispositivos informáticos]]></document>
+		<document><![CDATA[Soy Ingeniero no licenciado @mrvictorica]]></document>
+		<document><![CDATA[@dzapatillas @dzapatillas Cuando les pregunto porque no lo retiran, siempre dicen que el apoyacabezas es obligatorio por ley...]]></document>
+		<document><![CDATA[@fernandotomeo @LANACION @horacioazzolin @alejopastor @martincasares No tiene sentido pedido de IP a proveedores extranjeros sin los locales]]></document>
+		<document><![CDATA[@fernandotomeo @LANACION @horacioazzolin @alejopastor @martincasares y el resguardo de IP dinámicas asignadas por los ISP locales ?]]></document>
+		<document><![CDATA[@fergleiser manjar de los dioses]]></document>
+		<document><![CDATA[@fergleiser La receta de la bobe es secreto industrial]]></document>
+		<document><![CDATA[Domingo lluvioso... https://t.co/0Hlhz5hQ8w]]></document>
+		<document><![CDATA[@identidadrobada Gracias por la aclaración... Pequeño saltamontes :)]]></document>
+		<document><![CDATA[@BanelcoCSIRT corrección: Celle brite no es una empresa de hacking]]></document>
+		<document><![CDATA[@kgalperin @verito_rap @sangarciacorre Ni ebrio ni dormido (frase retro si las hay) me enganchan para ver cualquiera de la familia StarWars]]></document>
+		<document><![CDATA[Leyes y optimismo para acabar con la corrupción en Argentina https://t.co/karaf7Mkz8]]></document>
+		<document><![CDATA[@musimundo Es la misma respuesta que  dan hace 3 meses, ingenuamente creí que esta vez se iban ocupar...Prometieron llamat y no lo hicieron]]></document>
+		<document><![CDATA[@whoisgallifrey Después contame como te fue y que tal el libro , Mica #ForensicFriday]]></document>
+		<document><![CDATA[@fast2100 El desafío que presenta cada caso es único, irrepetible y a veces requiere tomar decisiones técnicas sustentables en tiempo real]]></document>
+		<document><![CDATA[@musimundo Esperando respuesta...]]></document>
+		<document><![CDATA[Interesante aprendizaje de perfiles criminales al trabajar en conjunto con @quinonesurquiza.Lo multidisciplinario enriquece la investigación]]></document>
+		<document><![CDATA[Feliz cumpleaños al gourmet tecnológico @SCavanna]]></document>
+		<document><![CDATA[@PaisaArg Reacciones espasmódicas en lugar de políticas de estado...]]></document>
+		<document><![CDATA[Que lejos estamos en estos temas de la madre patria... https://t.co/MPoXpgGqOi]]></document>
+	</documents>
+</author>
